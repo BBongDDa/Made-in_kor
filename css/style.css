@@ -83,37 +83,37 @@ input,button,select,textarea {
 }
 
 .company1{
-    background-image: url('../images/회사소개서\ –\ 1.png');
+    background-image: url('../images/com1.png');
     background-size: cover;
     height: 100vh;
 }
 .company2{
-    background-image: url('../images/회사소개서\ –\ 2.png');
+    background-image: url('../images/com2.png');
     background-size: cover;
     height: 100vh;
 }
 .company3{
-    background-image: url('../images/회사소개서\ –\ 3.png');
+    background-image: url('../images/com3.png');
     background-size: cover;
     height: 100vh;
 }
 .company4{
-    background-image: url('../images/회사소개서\ –\ 4.png');
+    background-image: url('../images/com4.png');
     background-size: cover;
     height: 100vh;
 }
 .company5{
-    background-image: url('../images/회사소개서\ –\ 5.png');
+    background-image: url('../images/com5.png');
     background-size: cover;
     height: 100vh;
 }
 .company6{
-    background-image: url('../images/회사소개서\ –\ 6.png');
+    background-image: url('../images/com6.png');
     background-size: cover;
     height: 100vh;
 }
 .company7{
-    background-image: url('../images/회사소개서\ –\ 7.png');
+    background-image: url('../images/com7.png');
     background-size: cover;
     height: 100vh;
 }
