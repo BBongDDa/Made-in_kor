@@ -47,22 +47,22 @@ input,button,select,textarea {
     display: flex;
     justify-content: flex-start;
     align-items: flex-end;
-    padding-bottom: 262px;
-    padding-left: 180px;
+    padding-bottom: 200px;
+    padding-left: 160px;
 }
 .mi-content-area3{
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
-    padding-bottom: 370px;
-    padding-right: 650px;
+    padding-bottom: 250px;
+    padding-right: 600px;
 }
 
 .mi-content-area4{
     display: flex;
     justify-content: flex-start;
     align-items: flex-end;
-    padding-bottom: 380px;
+    padding-bottom: 300px;
     padding-left: 220px;
 }
 
