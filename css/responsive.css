@@ -127,7 +127,7 @@
     }
     .bt_main {
        height: 48px;
-       padding: 0 25px; 
+       padding: 0 10px; 
     }
     .bt_main2 {
        height: 48px;
@@ -3023,7 +3023,7 @@
         display: none;
     }
     .home_page20 .bt_main {
-        padding: 0 25px;
+        padding: 0 10px;
     }
     .home_page20 .bt_main2 {
         padding: 0 25px;
@@ -3475,22 +3475,77 @@
     padding-right: 0px;
     padding-left: 0px;
 }
+.dir-1-left-section{
+    text-align: center !important;
+    column-gap: 2rem;
+}
+.dir-m-img{
+    width: 85% !important;
+}
+.dir-line{
+    width: 100% !important;
+}
 
+.dir-1-card-text{
+    text-align: center !important;
+}
+.dir-1-text{
+    text-align: center !important;
+    font-size: large;
+}
 .direct1{
-    background-image: url('../images/direct_page1_N.png');
+    background-color: white;
     background-size: cover;
-    display: none;
+    padding-bottom: 1rem;
+    height: auto;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    flex-direction: column;
+    row-gap: 3rem;
+}
+.dir-1-card{
+    width: 95% !important;
+    margin: 0 auto;
+    padding: 10%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.dir-1-slo{
+    font-size: 2rem;
+}
+.dir-2-img{
+    flex-direction: column;
+    width: 90%;
+    margin: 0 auto;
 }
 .direct2{
-    background-image: url('../images/direct_page2_N.png');
+    background-image: url('../images/home-dir2.png');
     background-size: cover;
-    display: none;
+    height: auto;
+    flex-direction: column;
+}
+.dir-2-text{
+    align-items: unset;
+}
+.dir-2-slo{
+    margin-top: 1rem;
+    font-size: 2rem;
+    line-height: 3rem;
+    text-align: left;
+    margin-left: 2rem;
+}
+.dir-3-img{
+    flex-direction: column;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 1rem;
 }
 .direct3{
-    background-image: url('../images/direct_mobile_button_delete.png');
+    background-image: url('../images/home-dir3.png');
     background-size: cover;
-    width: 100%;
-    height: 750vh;
+    height: auto;
+    flex-direction: column-reverse;
 }
 
 .company1{

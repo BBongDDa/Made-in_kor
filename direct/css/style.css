@@ -67,19 +67,35 @@ input,button,select,textarea {
 }
 
 .direct1{
-    background-image: url('../images/direct_page1_N.png');
+    background-image: url('../images/home-dir1.png');
     background-size: cover;
-    height: 110vh;
+    display: flex;    
+    align-items: center;
+    height: 100vh;
+}
+.dir-1-slo{
+    font-size: 3rem;
+}
+.dir-1-text{
+    line-height: 2rem;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+.dir-1-card-text{
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #053d6b;
+    line-height: 2rem;
 }
 .direct2{
     background-image: url('../images/direct_page2_N.png');
     background-size: cover;
-    height: 110vh;
+    height: 100vh;
 }
 .direct3{
     background-image: url('../images/direct_page3_N.png');
     background-size: cover;
-    height: 110vh;
+    height: 100vh;
 }
 
 .company1{
@@ -312,25 +328,25 @@ button {
 }
 
 .bt_main {
-
-    color: #fff;
     font-size: 14px;
-    min-width: 155px;
     float: left;
     text-align: center;
     height: 48px;
     line-height: 50px;
     font-weight: 500;
     border: none;
-    padding: 0 35px;
+    padding: 0 10px;
     margin-right: 5px;
     transition: ease all 0.5s;
+    background-color: white; 
+    border-radius: 30px;
+    width: 145px; color: #073761; border: 1px solid #073761; position: relative;
 
 }
 .bt_main:hover,
 .bt_main:focus {
-    color: #fff;
-    background-color: #fff;
+    color: white;
+    background-color: #073761;
 }
 
 .reverse_bt.bt_main {
@@ -347,25 +363,25 @@ button {
 }
 
 .bt_main2{
-
-    color: #fff;
     font-size: 14px;
-    min-width: 155px;
     float: left;
     text-align: center;
     height: 48px;
     line-height: 50px;
     font-weight: 500;
     border: none;
-    padding: 0 35px;
+    padding: 0 10px;
+    margin-right: 5px;
     transition: ease all 0.5s;
-
+    background-color: white; 
+    border-radius: 100px;
+    width: 145px; color: #073761; border: 1px solid #073761; position: relative;
 }
 
 .bt_main2:hover,
 .bt_main2:focus {
-    color: #fff;
-    background-color: #fff;
+    color: #073761;
+    background-color: white;
 }
 
 .reverse_bt.bt_main2 {

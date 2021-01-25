@@ -127,7 +127,7 @@
     }
     .bt_main {
        height: 48px;
-       padding: 0 25px; 
+       padding: 0 10px; 
     }
     .bt_main2 {
        height: 48px;
@@ -3023,7 +3023,7 @@
         display: none;
     }
     .home_page20 .bt_main {
-        padding: 0 25px;
+        padding: 0 10px;
     }
     .home_page20 .bt_main2 {
         padding: 0 25px;
@@ -3477,9 +3477,10 @@
 }
 
 .direct1{
-    background-image: url('../images/direct_page1_N.png');
+    background-image: url('../images/home-dir1.png');
     background-size: cover;
-    display: none;
+    height: auto;
+    flex-direction: column;
 }
 .direct2{
     background-image: url('../images/direct_page2_N.png');
