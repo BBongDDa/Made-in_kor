@@ -89,6 +89,13 @@ input,button,select,textarea {
     line-height: 2rem;
     text-align: left;
 }
+.dir-2-card-text{
+    font-size: 1.6rem;
+    font-weight: 300;
+    color: #053d6b;
+    line-height: 2rem;
+    text-align: left;
+}
 .direct2{
     background-image: url('../images/home-dir2.png');
     background-size: cover;

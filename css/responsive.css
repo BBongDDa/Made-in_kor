@@ -3487,7 +3487,12 @@
 }
 
 .dir-1-card-text{
-    text-align: center !important;
+    text-align: left !important;
+
+}
+.dir-2-card-text{
+    text-align: left !important;
+    margin-left: 2rem !important;
 }
 .dir-1-text{
     text-align: center !important;
@@ -3504,9 +3509,9 @@
     row-gap: 3rem;
 }
 .dir-1-card{
-    width: 95% !important;
+    width: 96% !important;
     margin: 0 auto;
-    padding: 10%;
+    padding: 11%;
     display: flex;
     justify-content: center;
     flex-direction: column;
