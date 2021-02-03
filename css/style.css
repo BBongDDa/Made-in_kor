@@ -64,6 +64,7 @@ input,button,select,textarea {
 .index-1-slo{
     color: white;
     font-size: 4rem;
+    font-weight: 600;
     
 }
 .index-1-smalltext{
@@ -585,6 +586,7 @@ align-items: center;
     width: 70%;
     margin: 0 auto;
     text-shadow: 0 0 3px white;
+
 
 }
 .index-3-smalltext{

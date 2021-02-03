@@ -28,7 +28,7 @@
     text-align: center;
 }
 #msgslog{
-    display:scroll; position:fixed; bottom:30px; right:15px; font-size: 0.85rem; font-weight: bold; color: white;
+    display:scroll; position:fixed; bottom:30px; right:15px; font-size: 1rem; font-weight: bold; color: white;
 }
 #msgicon{
     width: 3.2rem;
@@ -101,7 +101,7 @@
         padding-top: 1rem;
     }
     #msgslog{
-        display:scroll; position:fixed; bottom:30px; right:15px; font-size: 0.85rem; font-weight: bold; color: white;
+        display:scroll; position:fixed; bottom:30px; right:15px; font-size: 1rem; font-weight: bold; color: white;
     }
     #msgicon{
         width: 3.2rem;
@@ -474,7 +474,7 @@
         width: 100%;
     }
     #msgslog{
-        display:scroll; position:fixed; bottom:30px; right:15px; font-size: 0.85rem; font-weight: bold; color: white;
+        display:scroll; position:fixed; bottom:30px; right:15px; font-size: 1rem; font-weight: bold; color: white;
     }
     #msgicon{
         width: 3.2rem;
@@ -1734,7 +1734,7 @@
         text-align: center;
     }
     #msgslog{
-        display:scroll; position:fixed; bottom:30px; right:15px; font-size: 0.85rem; font-weight: bold; color: white;
+        display:scroll; position:fixed; bottom:30px; right:15px; font-size: 1rem; font-weight: bold; color: white;
     }
     #msgicon{
         width: 3.2rem;
@@ -3050,7 +3050,7 @@
         padding-bottom: 2rem;
     }
     #msgslog{
-        display:scroll; position:fixed; bottom:30px; right:15px; font-size: 0.85rem; font-weight: bold; color: white;
+        display:scroll; position:fixed; bottom:30px; right:15px; font-size: 1rem; font-weight: bold; color: white;
     }
     #msgicon{
         width: 3.2rem;
