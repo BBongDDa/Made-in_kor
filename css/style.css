@@ -51,18 +51,14 @@ input,button,select,textarea {
 }
 .mi-content-area3{
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
-    padding-bottom: 250px;
-    padding-right: 600px;
+    justify-content: center;
+    align-items: center;
 }
 
 .mi-content-area4{
     display: flex;
-    justify-content: flex-start;
-    align-items: flex-end;
-    padding-bottom: 300px;
-    padding-left: 220px;
+    justify-content: center;
+    align-items: center;
 }
 
 .index-1-slo{
@@ -586,20 +582,37 @@ align-items: center;
 .index-3-slo{
     color: black;
     font-size: 3rem;
-    width: 75%;
+    width: 70%;
     margin: 0 auto;
+    text-shadow: 0 0 3px white;
+
 }
 .index-3-smalltext{
     color: black;
     font-size: 1.5rem;
-    width: 75%;
+    width: 70%;
     margin: 0 auto;
+    text-shadow: 0 0 3px white;
+}
+.index-4-slo{
+    color: black;
+    font-size: 3rem;
+    width: 90%;
+    margin: 0 auto;
+}
+.index-4-smalltext{
+    color: black;
+    font-size: 1.6rem;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 2rem;
 }
 #bg4{
     height: 100vh;
     background:  url('../images/indexbg4.png');
     background-size: cover;
     background-position: center;
+    display: flex;
     text-align: center;
 }
 #msgslog{

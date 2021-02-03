@@ -74,6 +74,7 @@
     }
     .index-1-wrap{
         flex-direction: column-reverse;
+        width: 93%;
     }
       .index-1-text-wrap{
         width: 100%;
@@ -85,7 +86,7 @@
         width: 90%;
     }
     .index-1-img{
-        width: 90%;
+        width: 95%;
     }
     
     #mainslog{
@@ -453,20 +454,21 @@
     }
     .index-1-wrap{
         flex-direction: column-reverse;
-        row-gap: 3rem;
+        row-gap: 2.5rem;
     }
     .index-1-slo{
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
     .index-1-text{
         width: 95%;
     }
     .index-1-smalltext{
-        font-size: 1.3ssrem;
+        font-size: 1.3rem;
         line-height: unset;
     }
     .index-1-img{
         width: 90%;
+        margin-top: 1rem;
     }
     .index-1-text-wrap{
         width: 100%;
@@ -3113,7 +3115,7 @@
     margin-bottom: 3rem;
 }
 .index-2-smalltext{
-    font-size: 1rem;
+    font-size: 1.1rem;
 }
 .index-3-img{
     display: none;
@@ -3140,8 +3142,30 @@
     align-items: center;
 }
 .index-3-slo{
-    width: 85%;
-    text-shadow: 0 0 10px white;
+    color: black;
+    font-size: 2.5rem;
+    width: 70%;
+    margin: 0 auto;
+}
+.index-3-smalltext{
+    color: black;
+    font-size: 1.3rem;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
+.index-4-slo{
+    color: black;
+    font-size: 2rem;
+    width: 90%;
+    margin: 0 auto;
+}
+.index-4-smalltext{
+    color: black;
+    font-size: 1.3rem;
+    width: 95%;
+    margin: 0 auto;
+    margin-bottom: 4.5rem;
 }
 .mi-content-area{
     display: flex;
@@ -3151,8 +3175,6 @@
 }
 .mi-content-area3{
     display: flex;
-    padding-top: 120px !important;
-    padding-bottom: 370px;
     text-align: center;
     justify-content: center;
     align-items: flex-start;
@@ -3161,13 +3183,10 @@
 
 .mi-content-area4{
     display: flex;
-    padding-top: 155px !important;
-    padding-bottom: 370px;
     text-align: center;
     justify-content: center;
     align-items: flex-start;
-    padding-right: 0px;
-    padding-left: 0px;
+    padding:  0rem 0rem 4rem 0rem;
 }
 .dir-1-left-section{
     text-align: center !important;
