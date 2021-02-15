@@ -618,7 +618,7 @@ align-items: center;
     text-align: center;
 }
 #msgslog{
-    display:scroll; position:fixed; bottom:30px; right:25px; font-size: 1.2rem; font-weight: bold; color: white; text-shadow: 0 0 3px black;
+    display:scroll; position:fixed; bottom:30px; right:25px; font-size: 1.3rem; font-weight: bold; color: #F7E600; text-shadow: 0 0 3px white; background-color: #3A1D1D; padding: 0.7%; border-radius: 30px;
 }
 #msgicon{
     width: 4rem;
